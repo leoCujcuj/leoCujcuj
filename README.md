@@ -62,7 +62,7 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoCujcuj&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoCujcuj&theme=tokyonight&hide_border=true&timezone=America/Guatemala" alt="Racha de contribuciones"/>
 </p>
 
 <p align="center">
