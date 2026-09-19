@@ -18,9 +18,27 @@
 
 Puedes visitar mi sitio web personal o explorar una selección de mis desarrollos más recientes:
 
-<p align="left">
+<p align="center">
   <a href="https://portafolio-edvin-cujcuj.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Portafolio_Web-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Web" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/leoCujcuj/Restaurant-Management-System" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=Restaurant-Management-System&theme=tokyonight&hide_border=true" alt="Restaurant Management System" />
+  </a>
+  <a href="https://github.com/leoCujcuj/IADJ" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=IADJ&theme=tokyonight&hide_border=true" alt="IADJ" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/leoCujcuj/NotasApp" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=NotasApp&theme=tokyonight&hide_border=true" alt="NotasApp" />
+  </a>
+  <a href="https://github.com/leoCujcuj/graphql" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=graphql&theme=tokyonight&hide_border=true" alt="GraphQL API" />
   </a>
 </p>
 
@@ -54,7 +72,11 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leoCujcuj/leoCujcuj/main/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leoCujcuj/leoCujcuj/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leoCujcuj/leoCujcuj/main/github-contribution-grid-snake.svg" />
+    <img alt="Snake Game" src="https://raw.githubusercontent.com/leoCujcuj/leoCujcuj/main/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <br>
