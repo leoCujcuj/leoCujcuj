@@ -7,9 +7,10 @@
 
 ### Sobre mí
 
-- Me especializo en el desarrollo **Full-Stack** enfocado en el ecosistema **MERN** (MongoDB, Express, React, Node.js) y en la creación de aplicaciones móviles con **React Native** y **Android Studio**.
-- Actualmente trabajando en el diseño y optimización de arquitecturas web, integración de microservicios y gestión de bases de datos relacionales y no relacionales.
-- Siempre intentando aprender algo nuevo.
+- Me especializo en el desarrollo **Full-Stack** con **TypeScript** y **JavaScript**, trabajando con tecnologías como **NestJS**, **Express**, **React**, **Next.js** y el ecosistema **MERN**, además de la creación de aplicaciones móviles con **React Native** y **Android Studio**.
+- Experiencia en diseño de APIs (**GraphQL** y REST), modelado de datos con **Prisma**, gestión de estado (como **Pinia**), pruebas automatizadas (**Testing**) y gestión de bases de datos relacionales y NoSQL.
+- Actualmente trabajando en el diseño y optimización de arquitecturas web, integración de microservicios y buenas prácticas de desarrollo de software.
+- Siempre aprendiendo y explorando nuevas tecnologías.
 
 ---
 
@@ -29,7 +30,7 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cs,java,react,nodejs,express,nextjs,spring,dotnet,androidstudio,bootstrap,tailwind,mysql,postgres,mongodb,supabase,docker,git,github,npm,pnpm,vite,vercel,vscode,postman&perline=11" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,java,react,nextjs,pinia,bootstrap,tailwind,nodejs,express,nestjs,graphql,prisma,spring,dotnet,postgres,mysql,mongodb,supabase,jest,docker,git,github,androidstudio,npm,pnpm,vite,vercel,vscode,postman&perline=11" alt="My Skills" />
   </a>
 </div>
 
@@ -47,7 +48,7 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leoCujcuj&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Logros de GitHub" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=leoCujcuj&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Logros de GitHub" />
 </p>
 
 <hr>
