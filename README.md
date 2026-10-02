@@ -1,44 +1,56 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&duration=3500&pause=300&color=007ACC&center=true&vCenter=true&width=600&lines=¡Hola!+Bienvenido+a+mi+perfil;¡Gracias+por+pasarte+por+aquí!;Siempre+explorando+nuevas+tecnologías" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&weight=500&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Bienvenido+a+mi+perfil;Edvin+Leonel+Cujcuj" alt="Typing SVG" />
   </a>
 </div>
-<br>
+
+<p align="center">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=leoCujcuj&theme=dark" alt="Terminal Stats" width="820" />
+</p>
 
 ### Sobre mí
 
 - Me especializo en el desarrollo **Full-Stack** con **TypeScript** y **JavaScript**, trabajando con tecnologías como **NestJS**, **Express**, **React**, **Next.js** y el ecosistema **MERN**, además de la creación de aplicaciones móviles con **React Native** y **Android Studio**.
-- Experiencia en diseño de APIs (**GraphQL** y REST), modelado de datos con **Prisma**, gestión de estado (como **Pinia**), pruebas automatizadas (**Testing**) y gestión de bases de datos relacionales y NoSQL.
+- Experiencia en diseño de APIs (**GraphQL** y REST), modelado de datos con **Prisma**, gestión de estado (como **Pinia**), pruebas automatizadas (**Jest**) y gestión de bases de datos relacionales y NoSQL.
 - Actualmente trabajando en el diseño y optimización de arquitecturas web, integración de microservicios y buenas prácticas de desarrollo de software.
 - Siempre aprendiendo y explorando nuevas tecnologías.
+
+<!--START_SECTION:languages-->
+```text
+> Languages (Repositories breakdown):
+JavaScript          ██████████████░░░░░░   70.05%
+CSS                 ███░░░░░░░░░░░░░░░░░   13.73%
+C#                  ██░░░░░░░░░░░░░░░░░░    7.71%
+Vue                 █░░░░░░░░░░░░░░░░░░░    3.57%
+HTML                █░░░░░░░░░░░░░░░░░░░    3.08%
+```
+<!--END_SECTION:languages-->
 
 ---
 
 ### Portafolio y Proyectos Destacados
 
-Puedes visitar mi sitio web personal o explorar una selección de mis desarrollos más recientes:
-
 <p align="center">
   <a href="https://portafolio-edvin-cujcuj.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Portafolio_Web-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Web" />
+    <img src="https://img.shields.io/badge/Ver_Portafolio_Web-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio Web" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/leoCujcuj/Restaurant-Management-System" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=Restaurant-Management-System&theme=tokyonight&hide_border=true" alt="Restaurant Management System" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=Restaurant-Management-System&theme=github_dark&hide_border=true" alt="Restaurant Management System" />
   </a>
   <a href="https://github.com/leoCujcuj/IADJ" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=IADJ&theme=tokyonight&hide_border=true" alt="IADJ" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=IADJ&theme=github_dark&hide_border=true" alt="IADJ" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/leoCujcuj/NotasApp" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=NotasApp&theme=tokyonight&hide_border=true" alt="NotasApp" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=NotasApp&theme=github_dark&hide_border=true" alt="NotasApp" />
   </a>
   <a href="https://github.com/leoCujcuj/graphql" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=graphql&theme=tokyonight&hide_border=true" alt="GraphQL API" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=graphql&theme=github_dark&hide_border=true" alt="GraphQL API" />
   </a>
 </p>
 
@@ -48,7 +60,7 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,java,react,nextjs,pinia,bootstrap,tailwind,nodejs,express,nestjs,graphql,prisma,spring,dotnet,postgres,mysql,mongodb,supabase,jest,docker,git,github,androidstudio,npm,pnpm,vite,vercel,vscode,postman&perline=11" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,java,react,nextjs,pinia,bootstrap,tailwind,nodejs,express,nestjs,graphql,prisma,spring,dotnet,postgres,mysql,mongodb,supabase,jest,docker,git,github,androidstudio,npm,pnpm,vite,vercel,vscode,postman&perline=11&theme=dark" alt="My Skills" />
   </a>
 </div>
 
@@ -57,16 +69,11 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=leoCujcuj&show_icons=true&locale=es&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="195"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=leoCujcuj&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoCujcuj&theme=github_dark&hide_border=true&timezone=America/Guatemala" alt="Racha de contribuciones"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoCujcuj&theme=tokyonight&hide_border=true&timezone=America/Guatemala" alt="Racha de contribuciones"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=leoCujcuj&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Logros de GitHub" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=leoCujcuj&theme=github_dark&no-frame=true&no-bg=true&margin_w=4" alt="Logros de GitHub" />
 </p>
 
 <hr>
@@ -81,16 +88,18 @@ Puedes visitar mi sitio web personal o explorar una selección de mis desarrollo
 
 <br>
 
+### Contacto
+
 <p align="center">
   <a href="https://www.linkedin.com/in/edvin-leonel-cujcuj-ejcal%C3%B3n-42852241a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &emsp;
-  <a href="mailto:ecujcuj9@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:edvincuej9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &emsp;
   <a href="https://github.com/leoCujcuj" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
