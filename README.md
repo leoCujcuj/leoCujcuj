@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&weight=500&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Bienvenido+a+mi+perfil;Edvin+Leonel+Cujcuj" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&weight=600&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Edvin+Leonel+Cujcuj;Full-Stack+Developer;TypeScript+%7C+NestJS+%7C+React+%7C+Next.js;Building+scalable+web+&+AI+solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -37,20 +37,17 @@ HTML                █░░░░░░░░░░░░░░░░░░░
 </p>
 
 <p align="center">
-  <a href="https://github.com/leoCujcuj/Restaurant-Management-System" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=Restaurant-Management-System&theme=github_dark&hide_border=true" alt="Restaurant Management System" />
+  <a href="https://github.com/leoCujcuj/ArmarioYEstilista" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=leoCujcuj&repo=ArmarioYEstilista&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&hide_border=true" alt="ArmarioYEstilista" />
   </a>
   <a href="https://github.com/leoCujcuj/IADJ" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=IADJ&theme=github_dark&hide_border=true" alt="IADJ" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=leoCujcuj&repo=IADJ&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&hide_border=true" alt="IADJ" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/leoCujcuj/NotasApp" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=NotasApp&theme=github_dark&hide_border=true" alt="NotasApp" />
-  </a>
-  <a href="https://github.com/leoCujcuj/graphql" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=leoCujcuj&repo=graphql&theme=github_dark&hide_border=true" alt="GraphQL API" />
+  <a href="https://github.com/leoCujcuj/Restaurant-Management-System" target="_blank">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=leoCujcuj&repo=Restaurant-Management-System&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&hide_border=true" alt="Restaurant Management System" />
   </a>
 </p>
 
@@ -66,14 +63,11 @@ HTML                █░░░░░░░░░░░░░░░░░░░
 
 ---
 
-### Estadísticas de GitHub
+### Estadísticas y Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoCujcuj&theme=github_dark&hide_border=true&timezone=America/Guatemala" alt="Racha de contribuciones"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=leoCujcuj&theme=github_dark&no-frame=true&no-bg=true&margin_w=4" alt="Logros de GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=leoCujcuj&show_icons=true&locale=es&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&hide_border=true" alt="Estadísticas de GitHub" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoCujcuj&background=0d1117&ring=39d353&fire=39d353&currStreakNum=39d353&sideNums=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&hide_border=true&timezone=America/Guatemala" alt="Racha de contribuciones" height="195"/>
 </p>
 
 <hr>
