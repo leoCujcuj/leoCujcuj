@@ -38,16 +38,16 @@ HTML                █░░░░░░░░░░░░░░░░░░░
 
 <p align="center">
   <a href="https://github.com/leoCujcuj/ArmarioYEstilista" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=leoCujcuj&repo=ArmarioYEstilista&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&hide_border=true" alt="ArmarioYEstilista" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=leoCujcuj&repo=ArmarioYEstilista&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&hide_border=true" alt="ArmarioYEstilista" />
   </a>
   <a href="https://github.com/leoCujcuj/IADJ" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=leoCujcuj&repo=IADJ&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&hide_border=true" alt="IADJ" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=leoCujcuj&repo=IADJ&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&hide_border=true" alt="IADJ" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/leoCujcuj/Restaurant-Management-System" target="_blank">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=leoCujcuj&repo=Restaurant-Management-System&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&hide_border=true" alt="Restaurant Management System" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=leoCujcuj&repo=Restaurant-Management-System&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=8b949e&hide_border=true" alt="Restaurant Management System" />
   </a>
 </p>
 
@@ -66,7 +66,7 @@ HTML                █░░░░░░░░░░░░░░░░░░░
 ### Estadísticas y Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=leoCujcuj&show_icons=true&locale=es&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&hide_border=true" alt="Estadísticas de GitHub" height="195"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=leoCujcuj&show_icons=true&locale=es&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&hide_border=true" alt="Estadísticas de GitHub" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoCujcuj&background=0d1117&ring=39d353&fire=39d353&currStreakNum=39d353&sideNums=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&hide_border=true&timezone=America/Guatemala" alt="Racha de contribuciones" height="195"/>
 </p>
 
